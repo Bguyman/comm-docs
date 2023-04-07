@@ -28,9 +28,9 @@ Before continuing, make sure you have installed:
 
 The tasks this guide will show you how to accomplish are:
 
-* Export Photoshop Files as JPG
 * Create a Layer Mask
 * Create Animations
+* Export Photoshop Files as JPG
 
 ## Typographical Conventions
 

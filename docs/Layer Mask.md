@@ -19,7 +19,7 @@ Start by opening your selected image in Photoshop. This can be done by right cli
 
 ## Making a Selection
 
-Once you have your image opened in Photoshop you will need to make a selection of what you want to mask. On the left side you will see you list of available Photoshop tools, of these tools you will have three options for making selections.
+Once you have your image opened in Photoshop you will need to make a selection of what you want to mask. On the left side you will see a list of available Photoshop tools, of these tools you will have three options for making selections.
 
 1. The shape selection tools for making selections in the shape of a rectangle or an ellipse
 
