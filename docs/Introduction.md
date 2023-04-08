@@ -8,14 +8,12 @@ This guide is intended for the following users:
 
 * Beginner FSWD students
 * Intermediate FSWD students
-* me lmao
 
 ## Prerequisite Knowledge
 
 This guide assumes you know how to:
 
 * Open Photoshop
-* Create or open Photoshop files
 
 ## Software Requirements
 
@@ -32,6 +30,10 @@ The tasks this guide will show you how to accomplish are:
 * Create Animations
 * Export Photoshop Files as JPG
 
-## Typographical Conventions
+## Notes and Warning Messages
 
-I will fill this in later
+!!! warning
+    This will tell you about things you should be careful of when performing the tasks.
+
+!!! danger
+    This will warn you about actions you must take before proceeding.
